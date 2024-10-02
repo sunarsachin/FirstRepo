@@ -1,2 +1,3 @@
 # FirstRepo
-Author - Sachin Sunar
+Author - Sachin Sunar 
+This is My First Repo
